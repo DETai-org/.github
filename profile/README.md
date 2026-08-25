@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DETai-org/sites/main/assets/organizations-detai/site-default.jpg" width="820" alt="DETai ecosystem artwork" />
+  <img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/brand/detai-ecosystem-hero.jpg" width="860" alt="DETai ecosystem artwork" />
 </p>
 
 <h1 align="center">DETai</h1>
@@ -23,11 +23,15 @@
 
 ---
 
-## What is DETai?
+<h2 align="center">What is DETai?</h2>
 
-**DETai is an ecosystem for AI-Augmented Psychotherapy built around DET, a psychotherapeutic method, and a connected institutional and technological architecture.**
+<p align="center">
+  <strong>DETai is an ecosystem for AI-Augmented Psychotherapy built around DET, a psychotherapeutic method, and a connected institutional and technological architecture.</strong>
+</p>
 
-We bring together psychotherapy, education, research, product development, and Human–AI infrastructure while keeping professional responsibility and human contact at the center.
+<p align="center">
+  We bring together psychotherapy, education, research, product development, and Human–AI infrastructure while keeping professional responsibility and human contact at the center.
+</p>
 
 ### Architecture at a glance
 
@@ -53,15 +57,57 @@ flowchart TB
     T --> PL
 ```
 
-## Public repositories
+<br />
 
-| Repository | Role |
-|---|---|
-| [`sites`](https://github.com/DETai-org/sites) | Next.js monorepo for the DETai ecosystem site and Anton Kolhonen's personal site |
-| [`Knowledge_substrate`](https://github.com/DETai-org/Knowledge_substrate) | Canonical knowledge and documentation substrate for the DETai ecosystem |
-| [`.github`](https://github.com/DETai-org/.github) | Public organization profile and shared GitHub metadata |
+<p align="center">
+  <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-OPEN_KNOWLEDGE_%26_ONBOARDING-B88A2D?style=for-the-badge" height="42" alt="Public repositories" />
+</p>
 
-## Team
+<p align="center"><sub>Three deliberately public GitHub surfaces of the DETai ecosystem</sub></p>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/DETai-org/Knowledge_substrate">
+        <img src="https://img.shields.io/badge/Knowledge_Substrate-CANONICAL_KNOWLEDGE-B88A2D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Knowledge Substrate" />
+      </a>
+      <br /><br />
+      <strong>Long-lived knowledge substrate</strong>
+      <br />
+      <sub>Canonical knowledge, documentation architecture, standards and ecosystem-level source material.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/status-PUBLIC-238636?style=flat-square" alt="Public" />
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/DETai-org/onboarding">
+        <img src="https://img.shields.io/badge/onboarding-TEAM_ENTRY_ROUTE-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Onboarding" />
+      </a>
+      <br /><br />
+      <strong>Public route into the team environment</strong>
+      <br />
+      <sub>Tutorial materials, shared Codex skills and resources for initial DET / DETai workspace setup.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/status-PUBLIC-238636?style=flat-square" alt="Public" />
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/DETai-org/.github">
+        <img src="https://img.shields.io/badge/.github-ORGANIZATION_PROFILE-8250DF?style=for-the-badge&logo=github&logoColor=white" alt="Organization profile" />
+      </a>
+      <br /><br />
+      <strong>Public GitHub identity</strong>
+      <br />
+      <sub>Organization profile, shared public metadata and reusable DETai identity assets for GitHub surfaces.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/status-PUBLIC-238636?style=flat-square" alt="Public" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TEAM-FOUNDING_%26_TECHNOLOGY-8250DF?style=for-the-badge" height="38" alt="Team" />
+</p>
 
 <table>
   <tr>
@@ -86,11 +132,15 @@ flowchart TB
   </tr>
 </table>
 
-## Public launch
+<br />
 
-The production surface is being prepared for the first public baseline of the ecosystem.
+<p align="center">
+  <img src="https://img.shields.io/badge/PUBLIC_EPOCH-1_SEPTEMBER_2026-B88A2D?style=for-the-badge" height="38" alt="Public Epoch" />
+</p>
 
-**1 September 2026 marks the beginning of the DETai Public Epoch — Year 1.**
+<p align="center">The production surface is being prepared for the first public baseline of the ecosystem.</p>
+
+<p align="center"><strong>1 September 2026 marks the beginning of the DETai Public Epoch.</strong></p>
 
 <p align="center">
   <sub>Psychotherapy · Education · Research · Technology · Human–AI collaboration</sub>
