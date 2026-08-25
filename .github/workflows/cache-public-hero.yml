@@ -1,0 +1,33 @@
+name: Cache DETai public hero
+
+on:
+  push:
+    paths:
+      - ".github/workflows/cache-public-hero.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cache-hero:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch canonical DETai hero
+        run: |
+          mkdir -p assets/brand
+          curl --fail --location --silent --show-error \
+            https://raw.githubusercontent.com/DETai-org/sites/main/assets/organizations-detai/site-default.jpg \
+            --output assets/brand/detai-ecosystem-hero.jpg
+
+      - name: Commit cached public asset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/brand/detai-ecosystem-hero.jpg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Cache DETai public profile hero"
+          git push
