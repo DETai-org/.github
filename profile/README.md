@@ -9,17 +9,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public_Epoch-1_September_2026-B88A2D?style=for-the-badge" alt="Public Epoch: 1 September 2026" />
-  <img src="https://img.shields.io/badge/Website-domain_activation_pending-555555?style=for-the-badge" alt="Website: domain activation pending" />
-  <img src="https://img.shields.io/badge/Docs-domain_activation_pending-555555?style=for-the-badge" alt="Docs: domain activation pending" />
+  <img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/public-epoch.svg" height="42" alt="Public Epoch — 1 September 2026" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/detai_ru"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/social/telegram-ru-flag-above.svg" height="56" alt="Telegram RU — Russian flag above button" /></a>
-  <a href="https://t.me/detai_en"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/social/telegram-en-flag-inside.svg" height="56" alt="Telegram EN — United Kingdom flag inside button" /></a>
-  <a href="https://t.me/detai_fi"><img src="https://img.shields.io/badge/Telegram-FI-2D6EAA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram FI" /></a>
-  <a href="https://t.me/detai_de"><img src="https://img.shields.io/badge/Telegram-DE-4A4A4A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram DE" /></a>
+  <img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/website-pending.svg" height="40" alt="Website — domain activation pending" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/docs-pending.svg" height="40" alt="Docs — domain activation pending" />
 </p>
+
+<p align="center">
+  <a href="https://t.me/detai_en"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/telegram-en.svg" height="40" alt="Telegram English channel" /></a>
+  <a href="https://t.me/detai_fi"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/telegram-fi.svg" height="40" alt="Telegram Finnish channel" /></a>
+  <a href="https://t.me/detai_ru"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/telegram-ru.svg" height="40" alt="Telegram Russian channel" /></a>
+  <a href="https://t.me/detai_de"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/telegram-de.svg" height="40" alt="Telegram German channel" /></a>
+</p>
+
+<p align="center"><sub>Website and Docs activate with production domains · Telegram channels are live</sub></p>
 
 ---
 
