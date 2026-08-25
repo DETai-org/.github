@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="40" viewBox="0 0 210 40" role="img" aria-label="Docs — domain activation pending">
+  <title>Docs — Material for MkDocs · domain activation pending</title>
+  <rect width="210" height="40" rx="6" fill="#555"/>
+  <g transform="translate(10 8) scale(1)">
+    <rect width="24" height="24" rx="5" fill="#526cfe"/>
+    <path d="m17.029 18.772.777 1.166-5.417 2.709L0 16.451V4.063l5.417-2.709 5.298 7.948 7.867-5.24L24 1.354V16.84l-5.417 2.709zm2.023-13.827v13.253l3.949-1.975V2.97zM5.076 2.642 1.458 4.45 12.73 21.358l3.618-1.809z" fill="#fff" transform="scale(.78) translate(3.4 3.4)"/>
+  </g>
+  <text x="105" y="25" text-anchor="middle" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" font-weight="700" letter-spacing="1">DOCS</text>
+  <circle cx="188" cy="20" r="10" fill="#6e7681"/>
+  <circle cx="184" cy="20" r="1.4" fill="#fff"/><circle cx="188" cy="20" r="1.4" fill="#fff"/><circle cx="192" cy="20" r="1.4" fill="#fff"/>
+</svg>
