@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="42" viewBox="0 0 300 42" role="img" aria-label="Public Epoch — 1 September 2026">
+  <title>Public Epoch — 1 September 2026</title>
+  <defs><clipPath id="c"><rect width="300" height="42" rx="6"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="122" height="42" fill="#4b4b4b"/>
+    <rect x="122" width="178" height="42" fill="#b88a2d"/>
+  </g>
+  <text x="61" y="26" text-anchor="middle" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" font-weight="700" letter-spacing="1">PUBLIC EPOCH</text>
+  <text x="211" y="26" text-anchor="middle" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12" font-weight="700" letter-spacing="1">1 SEPTEMBER 2026</text>
+</svg>
