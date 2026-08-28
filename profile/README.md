@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/website-pending.svg" height="40" alt="Website — domain activation pending" />
+  <a href="https://detai-x.com/"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/website.svg" height="40" alt="DETai Website" /></a>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/docs-pending.svg" height="40" alt="Docs — domain activation pending" />
+  <a href="https://docs.detai-x.com/"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/docs.svg" height="40" alt="DETai Documentation" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
   <a href="https://t.me/detai_de"><img src="https://raw.githubusercontent.com/DETai-org/.github/main/assets/nav/telegram-de.svg" height="40" alt="Telegram German channel" /></a>
 </p>
 
-<p align="center"><sub>Website and Docs activate with production domains · Telegram channels are live</sub></p>
+<p align="center"><sub>Website · Documentation · Telegram channels are live</sub></p>
 
 ---
 
